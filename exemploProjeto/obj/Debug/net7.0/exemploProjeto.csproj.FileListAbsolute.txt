@@ -1,0 +1,15 @@
+C:\Users\felip\Dropbox\dio\exemploProjeto\obj\Debug\net7.0\exemploProjeto.csproj.AssemblyReference.cache
+C:\Users\felip\Dropbox\dio\exemploProjeto\obj\Debug\net7.0\exemploProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Dropbox\dio\exemploProjeto\obj\Debug\net7.0\exemploProjeto.AssemblyInfoInputs.cache
+C:\Users\felip\Dropbox\dio\exemploProjeto\obj\Debug\net7.0\exemploProjeto.AssemblyInfo.cs
+C:\Users\felip\Dropbox\dio\exemploProjeto\obj\Debug\net7.0\exemploProjeto.csproj.CoreCompileInputs.cache
+C:\Users\felip\Dropbox\dio\exemploProjeto\bin\Debug\net7.0\exemploProjeto.exe
+C:\Users\felip\Dropbox\dio\exemploProjeto\bin\Debug\net7.0\exemploProjeto.deps.json
+C:\Users\felip\Dropbox\dio\exemploProjeto\bin\Debug\net7.0\exemploProjeto.runtimeconfig.json
+C:\Users\felip\Dropbox\dio\exemploProjeto\bin\Debug\net7.0\exemploProjeto.dll
+C:\Users\felip\Dropbox\dio\exemploProjeto\bin\Debug\net7.0\exemploProjeto.pdb
+C:\Users\felip\Dropbox\dio\exemploProjeto\obj\Debug\net7.0\exemploProjeto.dll
+C:\Users\felip\Dropbox\dio\exemploProjeto\obj\Debug\net7.0\refint\exemploProjeto.dll
+C:\Users\felip\Dropbox\dio\exemploProjeto\obj\Debug\net7.0\exemploProjeto.pdb
+C:\Users\felip\Dropbox\dio\exemploProjeto\obj\Debug\net7.0\exemploProjeto.genruntimeconfig.cache
+C:\Users\felip\Dropbox\dio\exemploProjeto\obj\Debug\net7.0\ref\exemploProjeto.dll
